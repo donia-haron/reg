@@ -1,0 +1,84 @@
+body {
+    background: white;
+}
+
+.home {
+    color: #3e4144;
+    margin: 0px auto 25px;
+    font-size: 45px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.button {
+    background-color: rgba(233, 213, 213, 0.664);
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 60px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    overflow:hidden;
+    width: auto;
+    max-width: 32px;
+    -webkit-transition: max-width 0.5s;
+    transition: max-width 0.5s;
+  }
+  
+  .button:hover {
+    max-width: 300px;
+  }
+  .button2 {
+    background-color: rgba(94, 81, 81, 0.664);
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 60px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    overflow:hidden;
+    width: auto;
+    max-width: 32px;
+    -webkit-transition: max-width 0.5s;
+    transition: max-width 0.5s;
+  }
+  
+  .button2:hover {
+    max-width: 300px;
+  }
+  
+  .button3 {
+    background-color: rgba(226, 23, 23, 0.664);
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 60px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    overflow:hidden;
+    width: auto;
+    max-width: 32px;
+    -webkit-transition: max-width 0.5s;
+    transition: max-width 0.5s;
+  }
+  
+  .button3:hover {
+    max-width: 300px;
+  }
+  
+  .icon {
+    font-family: "Font Awesome 5 Free";
+    font-size: 16px;
+    margin-right: 15px;
+    padding: 0px 8px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .text {
+    white-space: nowrap;
+    padding-right: 15px;
+  }
